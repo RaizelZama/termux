@@ -1,0 +1,5 @@
+ns.de1.jkimhost.com
+ns.de2.jkimhost.com
+ns.de3.jkimhost.com
+ns.pl1.jkimhost.com
+ns.pl2.jkimhost.com
