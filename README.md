@@ -20,7 +20,7 @@ After installing Termux, follow the steps below to initialize the setup:
 
 #### Initialize Installation
 
-Copy and paste the initialization script into Termux. Wait for the process to complete. If prompted, choose "N" for no (default=N). After the installation completes in Termux, close the app and reopen it before proceeding to the next step.
+Copy and paste the initialization script into Termux. Wait for the process to complete. If prompted, choose "N" for default (default=N). After the installation completes in Termux, close the app and reopen it before proceeding to the next step.
 
 ```
 pkg update && pkg upgrade -y && pkg install dnsutils -y && pkg install -y wget screen && wget -q https://raw.githubusercontent.com/JKimDevs/termux/main/termux.sh -O termux.sh && chmod +x termux.sh && ./termux.sh l
