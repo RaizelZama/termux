@@ -11,8 +11,9 @@ This guide provides step-by-step instructions on how to set up certain tools and
 
 ### Step 1: Download Termux
 
-First, download Termux from the official GitHub releases page.
+First, download Termux by clicking on the following link or copying it into your web browser:
 
+[Download Termux](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk)
 ### Step 2: Initialize Termux
 
 After installing Termux, follow the steps below to initialize the setup:
