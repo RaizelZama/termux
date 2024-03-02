@@ -1,5 +1,3 @@
-ns.de1.jkimhost.com
-ns.de2.jkimhost.com
-ns.de3.jkimhost.com
-ns.pl1.jkimhost.com
-ns.pl2.jkimhost.com
+ns.sg1-dnstt.jkimdevs.email
+ns.sg2-dnstt.jkimdevs.email
+ns.sg3-dnstt.jkimdevs.email
